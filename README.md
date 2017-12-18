@@ -1,0 +1,1 @@
+This is a simple program to test the functionality of sending data between two different programming languages for a Client-Server situation. The two languages chosen were c# and java being the server and client respectively.
