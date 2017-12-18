@@ -40,7 +40,6 @@ public class SocketTest
     {
         try
         {
-
             os.write( str.getBytes() );
         }
         catch ( IOException e )
